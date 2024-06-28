@@ -2,3 +2,7 @@
 	path = zoo-bids
 	url = https://github.com/lnnrtwttkhn/zoo-bids.git
 	datalad-id = 92c7b02d-5cd8-4c45-a44f-573e2048cb77
+[submodule "zoo-paper-overleaf"]
+	path = zoo-paper-overleaf
+	url = ./zoo-paper-overleaf
+	datalad-id = 0b3dcd14-0d0c-4156-8b4b-72df5d0f542b
