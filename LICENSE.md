@@ -1,18 +1,15 @@
 # LICENSE
 
-The Turing Way Community makes all of their materials publicly available under open source licenses.
+We make all of our materials publicly available under open source licenses.
 
-The process documents and data are made available under a CC-BY license.
+The process documents and research data are made available under a CC-BY license.
 Software are made available under an MIT license.
 
-The  license text listed below (describing both CC-BY and MIT licenses as well as their usage in The Turing Way) is re-used under a CC-BY license from The Carpentries community materials.
-(Specifically from the [Reproducible Science Curriculum](https://github.com/Reproducible-Science-Curriculum/sharing-RR-Jupyter/blob/gh-pages/LICENSE.md)).
-
-You can read more about licenses [in the book itself](https://book.the-turing-way.org/reproducible-research/licensing.html).
+The license text listed below (describing both CC-BY and MIT licenses as well as their usage in our project) is re-used under a CC-BY license from The Turing Way and The Carpentries community materials (specifically from the [The Turing Way](https://github.com/the-turing-way/the-turing-way/blob/main/LICENSE.md) and [Reproducible Science Curriculum](https://github.com/Reproducible-Science-Curriculum/sharing-RR-Jupyter/blob/gh-pages/LICENSE.md)).
 
 ## Process documents and data
 
-All documentation and chapter materials in this repository are made available under the [Creative Commons Attribution license][cc-by-human].
+All documentation and research data in this repository are made available under the [Creative Commons Attribution license][cc-by-human].
 The following is a human-readable summary of (and not a substitute for) the [full legal text of the CC BY 4.0 license][cc-by-legal].
 
 You are free:
@@ -26,21 +23,20 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 
 Under the following terms:
 
-* **Attribution**---You must give appropriate credit (mentioning that your work is derived from work that is Copyright © The Turing Way Community and, where practical, linking to https://github.com/the-turing-way/the-turing-way), provide a [link to the license][cc-by-human], and indicate if changes were made.
-  You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-* **No additional restrictions**---You may not apply legal terms or technological measures that legally restrict others from doing
-anything the license permits.
+* **Attribution**---You must give appropriate credit (mentioning that your work is derived from work that is Copyright © Wittkuhn et al. and, where practical, linking to https://github.com/lnnrtwttkhn/zoo), provide a [link to the license][cc-by-human], and indicate if changes were made.
+You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+* **No additional restrictions**---You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
   
 With the understanding that:
 
-* You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an
-  applicable exception or limitation.
-* No warranties are given. The license may not give you all of the permissions necessary for your intended use.
-  For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
+* You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.
+* No warranties are given.
+The license may not give you all of the permissions necessary for your intended use.
+For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
 
 ## Software
 
-Except where otherwise noted, the software and infrastructure provided by the The Turing Way Community are made available under the [OSI][osi]-approved [MIT license][mit-license].
+Except where otherwise noted, the software and infrastructure provided by us are made available under the [OSI][osi]-approved [MIT license][mit-license].
 
 > Permission is hereby granted, free of charge, to any person obtaining
 > a copy of this software and associated documentation files (the
