@@ -9,5 +9,5 @@
 	datalad-url = https://git.overleaf.com/61aa47dc4e090033a3444937
 [submodule "zoo-analysis"]
 	path = zoo-analysis
-	url = ./zoo-analysis
+	url = https://github.com/lnnrtwttkhn/zoo-analysis.git
 	datalad-id = 758e9244-fee0-446e-98fe-a945d0b68a45
