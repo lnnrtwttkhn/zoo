@@ -1,0 +1,4 @@
+[submodule "zoo-bids"]
+	path = zoo-bids
+	url = ./zoo-bids
+	datalad-id = 92c7b02d-5cd8-4c45-a44f-573e2048cb77
