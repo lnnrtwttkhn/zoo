@@ -1,2 +1,4 @@
 * annex.backend=MD5E
 **/.git* annex.largefiles=nothing
+*.Rproj annex.largefiles=nothing
+.gitignore annex.largefiles=nothing
