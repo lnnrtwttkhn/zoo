@@ -4,6 +4,6 @@
 	datalad-id = 92c7b02d-5cd8-4c45-a44f-573e2048cb77
 [submodule "zoo-paper-overleaf"]
 	path = zoo-paper-overleaf
-	url = ./zoo-paper-overleaf
+	url = https://github.com/lnnrtwttkhn/zoo-paper-overleaf.git
 	datalad-id = 0b3dcd14-0d0c-4156-8b4b-72df5d0f542b
 	datalad-url = https://git.overleaf.com/61aa47dc4e090033a3444937
