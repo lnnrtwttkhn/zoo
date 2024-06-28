@@ -7,3 +7,7 @@
 	url = https://github.com/lnnrtwttkhn/zoo-paper-overleaf.git
 	datalad-id = 0b3dcd14-0d0c-4156-8b4b-72df5d0f542b
 	datalad-url = https://git.overleaf.com/61aa47dc4e090033a3444937
+[submodule "zoo-analysis"]
+	path = zoo-analysis
+	url = ./zoo-analysis
+	datalad-id = 758e9244-fee0-446e-98fe-a945d0b68a45
